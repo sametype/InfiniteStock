@@ -1,0 +1,3 @@
+rootProject.name = "InfiGetter"
+include ':app'
+include ':data'
